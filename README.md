@@ -16,5 +16,3 @@ Code Quality: Focused on scalability and maintainability, improving performance 
 Enhanced user experience across web and mobile platforms.
 
 Helped support a codebase capable of handling thousands of concurrent users during high-traffic live events.
-
-Delivered a consistent and engaging design across multiple fantasy game brands.
