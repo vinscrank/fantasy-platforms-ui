@@ -1,11 +1,11 @@
-# fantasy-platforms-ui
-UI/UX and frontend development for Fantasanremo, FantaEurovision &amp; FantaGiro d’Italia. Created scalable React (web) and Flutter (mobile) interfaces, enhancing user experience for thousands of fans during live events.
+Fantasanremo 2025 recorded over 3.5M registrations and 5.2M teams created! 🎉
+UI/UX and frontend development for Fantasanremo, FantaEurovision & FantaGiro d’Italia. Created scalable React (web) and Flutter (mobile) interfaces, enhancing user experience for thousands of fans during live events.
 
 🔨 Key Contributions
 
 React (Web): Implemented modern, reusable, and maintainable components for the desktop web platform.
 
-Flutter (App Mobile): Developed responsive views and interactive components optimized for mobile users.
+Flutter (Mobile App): Developed responsive views and interactive components optimized for mobile users.
 
 UI/UX Collaboration: Worked closely with designers to translate new layouts into production-ready code.
 
