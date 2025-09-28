@@ -1,6 +1,6 @@
 # fantasy-platforms-ui
 
-**Fantasanremo 2025 recorded over 3.5M registrations and 5.2M teams created!** 🎉  
+**Fantasanremo 2025 recorded over 3.5M registrations and 5.2M teams created!** 
 UI/UX and frontend development for Fantasanremo, FantaEurovision & FantaGiro d’Italia. Created scalable React (web) and Flutter (mobile) interfaces, enhancing user experience for **thousands of fans** during live events.
 
 🔨 **Key Contributions**
